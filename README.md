@@ -9,6 +9,11 @@ I'm a PG-Big data analytics based in CDAC-Pune.<br>🔭 I’m currently working 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Parth-root&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-root&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Social
+[https://www.linkedin.com/in/parth-jansari-63393616b/](# linkedin)
+[https://www.hackerrank.com/poproot4](# Hecker Rank)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
