@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a PG-Big data analytics based in CDAC-Pune.<br>🔭 I’m currently working on Big-data<br>🌱 I’m currently learning Python<br>👯 I’m looking to collaborate on [Big-data Projects]<br>💬 Ask me about Software and OS(especially Linux)<br>📫 How to reach me: poproot4@gmail.com<br>
+I'm a PG-Big data analytics based in CDAC-Pune.<br>🔭 I’m currently working on Big-data<br>🌱 I’m currently learning Python<br>👯 I’m looking to collaborate on [Big-data Projects]<br>💬 Ask me about Software and OS(especially Linux)<br>📫 How to reach me: poproot4@gmail.com<br>portfolio https://parth-root.github.io/<br>
 
 
 # 💻 Tech Stack:
